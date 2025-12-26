@@ -15,7 +15,9 @@ A simple **database** for managing vehicle rentals, built with **PostgreSQL**. I
 
 ## 🔹 Database Design
 
-![ERD Diagram](https://drawsql.app/teams/md-salauddin/diagrams/vehicle-rental-system-database-design)
+## 🔹 Database Design
+
+🔗 [View ERD Diagram](https://drawsql.app/teams/md-salauddin/diagrams/vehicle-rental-system-database-design)
 
 - Tables: `users`, `vehicles`, `bookings`  
 - Relationships:  
@@ -34,7 +36,7 @@ A simple **database** for managing vehicle rentals, built with **PostgreSQL**. I
 
 ## 🔹 Viva/Presentation
 
-- **Viva Video Placeholder:** [Watch Video](https://drive.google.com/file/d/1yaIFro-6yAP79GfXuxzXX_p6Y6bKaE9b/view?usp=drivesdk)  
+- **Viva Video:** [Watch Video](https://drive.google.com/file/d/1yaIFro-6yAP79GfXuxzXX_p6Y6bKaE9b/view?usp=drivesdk)  
 
 ---
 
